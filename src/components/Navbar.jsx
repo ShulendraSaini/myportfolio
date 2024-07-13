@@ -14,7 +14,7 @@ const Navbar = () => {
         <h1 className='w-full text-3xl font-bold primary-color ml-4'>Shulendra Saini</h1>
         <ul className='hidden md:flex'>
             <li className='p-5  underline-animation  hover:text-blue-600 transition'><a href="#home">Home</a></li>
-            <li className='p-5  underline-animation  hover:text-blue-600 transition'><a href="#work">Work</a></li>
+            <li className='p-5  underline-animation  hover:text-blue-600 transition'><a href="#work">Projects</a></li>
             <li className='p-5  underline-animation  hover:text-blue-600 transition'><a href="#experience">Experience</a></li>
             <li className='p-5  underline-animation  hover:text-blue-600 transition'><a href="#about">About</a></li>
             <li className='p-5  underline-animation  hover:text-blue-600 transition'><a href="#contact">Contact</a></li>
